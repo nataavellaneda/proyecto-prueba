@@ -1,0 +1,83 @@
+.textofooter2{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    background: darksalmon;
+    text-align: center;
+}
+
+.inicio{
+    background: rgb(216, 170, 170);
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.recomendaciones{
+    background: rgb(161, 133, 206);
+    text-align: center ;
+    font-family: cursive;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.p1{
+  color: blue;
+}
+.p2{
+    color: red;
+  }
+  .p3{
+    color: yellow ;
+  }
+  .p4{
+    color: green;
+  }
+  .p5{
+    color: white;
+  }
+  .p6{
+    color: orange;
+  }
+
+  .consejos{
+      text-align: center;
+      font-family: cursive;
+      font-size: 20px;
+      background: rgb(238, 185, 210);
+      padding-top: 20px;
+  }
+  .titulo{
+      color: rgb(0, 0, 0) ;
+      font-size: 23px;
+  }
+  .titulo2{
+    color: blue ;
+}
+.titulo3{
+    color: yellow ;
+}
+.titulo4{
+    color:green  ;
+}
+.titulo5{
+    color: red;
+}
+.titulo6{
+    color: orange ;
+}
+.titulo7{
+    color: white ;
+}
+.titulo8{
+    color: purple ;
+}
+.titulo9{
+    color: brown ;
+}
+.titulo10{
+    color: red ;
+}
+.titulo11{
+    color: blue ;
+}
+
